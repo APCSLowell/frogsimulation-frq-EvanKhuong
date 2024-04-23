@@ -36,7 +36,7 @@ public class FrogSimulation
 			if (simulate()==true)
 				goal++;
 		}
-		return (double)goal/num;
+		return goal/num;
 		
 
 	}
